@@ -1,0 +1,53 @@
+
+        body{
+        font-family:lucida-bright ;
+        background-color:black;
+            color:white;
+        }
+        .navbar-logo{
+            height:36px;
+        }
+        .head1{
+            padding-left:200px;
+            font-size:20px;
+            font-family:lucida-bright;
+            color:green;
+        }
+        .head2{
+            font-size:50px;
+            
+            font-family: Copperplate, Papyrus, fantasy;
+        }
+        .card{
+                background-color: transparent;
+                text-align: center;
+                font-size:30px;
+        }
+        .company-name{
+            background: linear-gradient(
+                to right, #1fa0ff, #12dafb,
+                #a7fdcc);
+            -webkit-text-fill-color: transparent;
+            -webkit-background-clip: text;
+        }
+        .input{
+            border: 5px solid skyblue;
+        }
+        .updates-container{
+            background-color:white;
+            color:black;
+            border-radius:10px;
+            margin:20px;
+            
+        }
+        .updates-img{
+            height:200px;
+        }
+        .about-us{
+            height:600px;
+            color:black;
+            border-radius:3-px;
+            
+        }
+
+        
