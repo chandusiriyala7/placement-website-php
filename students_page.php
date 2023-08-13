@@ -295,7 +295,7 @@ if(isset($_POST['submitDetails'])){
     $sql ="INSERT INTO `applicationDetails` (`id`, `fullname`, `email`, `number`, `dob`, `gender`, `branch`) VALUES ('$id', '$fullname', '$email', '$number', '$dob', '$gender', '$branch');";
     $query = mysqli_query($conn,$sql);
     if($quey){
-        echo "Inserted Successfully";
+        echo "Inserted Successfully yeah";
     }
 
 
