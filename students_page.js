@@ -24,9 +24,10 @@ let applicationSuccess =document.getElementById('applicationSuccess');
 let emailRegex = /^[r]{1}[0-9]{6}@[a-z]+\.[a-z]{2}\.[a-z]{2}$/;
 let idRegex = /^[rR]{1}[0-9]{6}$/;
 let numberRegex = /^[6-9]{1}[0-9]{9}$/
-let submission =true;
+
 
 function validateApplication(){
+    let submission =true;
     if((idRegex.test(idEl.value)) != true){
         idError.innerText = "Enter Valid ID only!";
         submission = false;
