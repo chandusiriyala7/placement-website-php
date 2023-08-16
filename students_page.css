@@ -44,9 +44,9 @@
             height:200px;
         }
         .about-us{
-            height:600px;
-            color:black;
-            border-radius:3-px;
+            color:white;
+            border-radius:16px;
+            margin-left:20px;
             
         }
         span{
