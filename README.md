@@ -1,5 +1,2 @@
 # placement-website-php
- i used bootstrap html css js sql php
-This Website is developed for our RGUKT RKVAlley University!!!
-
-Web Technologies Project
+This is the Web Technologies  Project done in my second year of my Collage!!!
